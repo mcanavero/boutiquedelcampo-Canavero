@@ -1,0 +1,30 @@
+.main-top{
+text-align: center;
+}
+
+.main-top-inner{
+    height: 102px;  
+}
+
+.container{
+    flex-direction: column;
+}
+
+.Campo-logo{
+    height: 90px;
+    width: 90px;
+}
+
+.me-auto a{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: white ;
+    padding: 20px 35px 18px ;
+    font-family: sans-serif;
+}
+
+.navBar{
+    background-color: #DEA776;
+}
+
