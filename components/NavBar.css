@@ -15,6 +15,12 @@ text-align: center;
     width: 90px;
 }
 
+.Cart-logo{
+    margin-top: 20px;
+    height: 40px;
+    width: 40px;
+}
+
 .me-auto a{
     text-align: center;
     font-size: 16px;
@@ -26,5 +32,17 @@ text-align: center;
 
 .navBar{
     background-color: #DEA776;
+    padding-top: 0px;
+    padding-bottom:  0px;
 }
 
+.me-auto > a:hover,
+.me-auto > a:focus {
+  text-decoration: none;
+  color: white;
+  background-color: black !important;
+}
+
+.app-navbar .nav .open > a {
+  color: #f3fcf4;
+}
